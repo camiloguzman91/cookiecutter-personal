@@ -1,6 +1,6 @@
 # Cookiecutter Personal
 
-By: camiloguzman
+By: Tu nombre
 
 Tu primer proyecto con Cookiecutter.
 
